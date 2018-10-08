@@ -1,5 +1,5 @@
 {
-  "name": "rbac",
+  "name": "kadm-rbac",
   "version": "4.0.2",
   "description": "Hierarchical Role Based Access Control",
   "author": {
